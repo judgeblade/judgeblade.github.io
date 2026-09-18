@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-Dr. Hanxiang Zhang has been hornored as Charles Kummeth Endowed Professorship
+Dr. Hanxiang Zhang has been hornored as Charles Kummeth Endowed Professor
