@@ -63,13 +63,12 @@ Service & Leadership
   - IEEE Microwave and Wireless Technology Letters (MWTL)
   - IEEE Journal of Microwaves
   - Scientific Reports
-  - Elsevier Array
 * Techinical Committee Service
   - IEEE Dallas Circuits and Systems Conference (DSCA)
   - IEEE International Conference on Intelligent Systems and Interdisciplinary Applications (ISAIA)
 * Editorialship Service
-  - Sensors (special issue): AI-Driven innovations for Enhanced Signal Intelligence: Applications in Radar and Biomedical Imaging Sensing, 2025-2026.
-
+  - Sensors (special issue): "AI-Driven innovations for Enhanced Signal Intelligence: Applications in Radar and Biomedical Imaging Sensing", 2025-2026.
+  - Eng (special issue): "Artificial Intelligence for Next-Generation Advanced Circuits and Systems: From Design to Edge Implementation", 2026-2027.
 
   
 
