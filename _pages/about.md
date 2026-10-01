@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hanxiang Zhang is currently a Research Assistant professor in School of Electrical Engineering and Computer Science (SEECS) at the University of North Dakota (UND). 
+"[Hanxiang Zhang](https://campus.und.edu/directory/hanxiang.zhang)" is currently a Research Assistant professor with College of Engineering & Mines (CEM), School of Electrical Engineering and Computer Science (SEECS) at the University of North Dakota (UND). 
 
 Before joining UND SEECS, he was a postdoctoral research scholar in Florida A&M University -Florida State University (FAMU-FSU) joint College of Engineering in Tallahasse Florida. He received his Ph.D. degree of Electrical Engineering from the Florida State University, and M.S. degree of Electrical Engineering from the University of Notre Dame.
 
