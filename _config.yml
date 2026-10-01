@@ -35,8 +35,6 @@ author:
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=xgBZmXEAAAAJ&view_op=list_works&sortby=pubdate"
   orcid            : "https://orcid.org/0000-0002-1693-6570"
-  linkedin         : "www.linkedin.com/in/hanxiang-zhang-475959140"
-
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -57,7 +55,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://linkedin.com/in/hanxiang-zhang-475959140"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
