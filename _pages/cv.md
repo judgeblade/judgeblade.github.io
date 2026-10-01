@@ -15,18 +15,18 @@ Education
 
 Professional Experience
 ======
-* School of Electrical Engineering and Computer Science, University of North Dakota
+* School of Electrical Engineering and Computer Science, University of North Dakota, Grand Forks, ND, USA
   - 08/2026-present: Research Assistant Professor
 
-* Department of Electrical and Computer Engineering, FAMU-FSU College of Engineering
+* Department of Electrical and Computer Engineering, FAMU-FSU College of Engineering, Tallahassee, FL, USA
   - 07/2025-07/2026: Postdoctoral Research Scholar
   - 08/2021-12/2024: Graduate Research Assistant
 
-* Electronics R&D department, Scotts Micracle-Gro Company 
+* Electronics R&D department, Scotts Micracle-Gro Company, Vancouver, WA, USA
   - 12/2024-06/2025: Sr. Electrical Engineer
 
-* Department of Electrical Engineering, University of Notre Dame
-  - 08/2019-05/2021: Graduate Teaching&Research Assistant
+* Department of Electrical Engineering, University of Notre Dame, South Bend, IN, USA
+  - 08/2019-05/2021: Graduate Teaching & Research Assistant
 
 Selected Publications
 ======
