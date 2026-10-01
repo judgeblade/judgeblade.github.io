@@ -20,7 +20,7 @@ His research insterest inludes:
 
 Welcome self-motivated undergrad/graduate students interested in RF/microwave engineering. Interested students are encouraged to contact me with a <strong>CV</strong>, <strong>transcript</strong>, and brief <strong>statement of research interest</strong>.
 
-* <strong>Fully funded positions of research asssistant (RA) are avilable for qualified students.</strong>
+* <strong>Fully funded positions of research asssistant (RA) are available for qualified students.</strong>
 
 
 
