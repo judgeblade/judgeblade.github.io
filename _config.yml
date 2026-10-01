@@ -34,13 +34,12 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=xgBZmXEAAAAJ&view_op=list_works&sortby=pubdate"
-  orcid            : "https://orcid.org/0000-0002-1693-6570"
-
+ 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
