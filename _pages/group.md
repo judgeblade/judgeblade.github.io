@@ -8,7 +8,7 @@ Welcome to our Adavcned RF circuits & System (ARCS) Lab.
 
 Our group focuses on: 
 * RF/microwave circuits design
-* Phased-array/radar system 
+* Phased-array/RF radar system 
 * Wideband Beamforming technique 
 * Reconfigurable RF front-end modules
 * Applied electromagnetics implementations. 
@@ -26,4 +26,4 @@ College of Engineering & Mines Research Institute, University of North Dakota
 
 Welcome self-motivated undergrad/graduate students interested in RF/microwave engineering. Interested students are encouraged to contact me with a <strong>CV</strong>, <strong>transcript</strong>, and brief <strong>statement of research interest</strong>.
 
-<strong>Fully funded positions of research asssistant (RA) are avilable for qualified students.</strong> 
+* <strong>Fully funded positions of research asssistant (RA) are avilable for qualified students.</strong> 
