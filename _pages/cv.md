@@ -50,6 +50,7 @@ Selected Publications
 
 Awards/Honors
 ======
+* Endowment Professorship, Charles Kummeth Endowed Professor - University of North Dakota, Sept. 2026
 * Student Paper Contest Finalist - IEEE MTT-S Radio & Wireless Symposium (RWS), Jan. 2025
 * Student Paper Contest Finalist - IEEE MTT-S Radio & Wireless Symposium (RWS), Jan. 2024
 * 2nd Place Award of Student Research Competition - IEEE Symposium on Wireless and Microwave Circuits and Systems (WMCS) April 2023
