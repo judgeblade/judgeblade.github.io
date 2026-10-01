@@ -5,8 +5,6 @@ permalink: /group/
 author_profile: true
 ---
 
-## Research Group
-
 Welcome to our research group page.
 
 Our group focuses on RF/microwave circuits, phased-array systems, beamforming networks, reconfigurable RF front-end systems, and applied electromagnetics implementations.
