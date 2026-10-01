@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Research Group"
+title: "ARCS Lab"
 permalink: /group/
 author_profile: true
 ---
-git 
-Welcome to our research group page.
+Welcome to our Adavcned RF circuits & System (ARCS) Lab.
 
-Our group focuses on RF/microwave circuits, phased-array systems, beamforming networks, reconfigurable RF front-end systems, and applied electromagnetics implementations.
+Our group focuses on RF/microwave circuits, phased-array systems, beamforming networks, reconfigurable RF front-end systems, and applied electromagnetics implementations. It aims to contribut to the next-generation wireless communication, satellite communication, and AI-accelerating applications
 
 ## Principal Investigator
 
@@ -21,4 +20,4 @@ University of North Dakota
 
 Welcome motivated students interested in RF/microwave engineering
 
-Interested students are encouraged to contact me with a CV, transcript, and brief statement of research interest.
+Interested students are encouraged to contact me with a <strong>CV</strong>, <strong>transcript</strong>, and brief <strong>statement of research interest</strong>.
