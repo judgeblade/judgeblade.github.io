@@ -18,7 +18,9 @@ His research insterest inludes:
 - Real-time RF signal processing
 - AI-driven microwave circuit & EM device design and optimization.
 
-<strong>Please stay tuned for the prospective opportinities of undergrad/graduate intern/RA positions..</strong>
+Welcome self-motivated undergrad/graduate students interested in RF/microwave engineering. Interested students are encouraged to contact me with a <strong>CV</strong>, <strong>transcript</strong>, and brief <strong>statement of research interest</strong>.
+
+* <strong>Fully funded positions of research asssistant (RA) are avilable for qualified students.</strong>
 
 
 
